@@ -1,16 +1,32 @@
-# weather_app
+# 🌦️ WeatherApp
 
-A new Flutter project.
+<p align="center">
+  <img src="images/appstore.png" alt="Screenshot" width="150"/>
+</p>
 
-## Getting Started
+<p align="center" style="display: flex; gap: 10px;">
+<img src="images/screen.png" width="375" height="812" />
+</p>
 
-This project is a starting point for a Flutter application.
+## 🌟 Overview
 
-A few resources to get you started if this is your first Flutter project:
+**WeatherApp** is a modern flutter application for 1-day forecast :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌦️ Weather Functionality
+- Current weather conditions display
+- 1-day forecast
+- Weather condition animations
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/AbdelrahmanElKhodary114/Weather-App-Flutter.git
+    ```
+2. Open the projec.
+3. Build and run the application.
+
+## Contributing
+
+Feel free to open issues or submit pull requests. Please ensure your code adheres to the project's coding standards and includes appropriate tests.
